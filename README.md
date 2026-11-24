@@ -64,11 +64,20 @@ Lalu buka http://localhost:3000.
 
 ## Tim Android
 
-| Anggota | Peran | Modul (PIC) |
-|---|---|---|
-| Salomo Putra Glorious Hokoyoku | Project Manager, Mobile Lead, Backend | Authentication, Virtual Card |
-| Cecilia Adelaide Penlaana | Mobile Developer | Transfer, History & Dashboard |
-| Gracia Riyanto | Mobile Developer | Payment (QRIS), Profile & Notification |
-| Grace | Mobile Developer | Account, Top-up |
+| NIM | Anggota | Peran | Modul (PIC) |
+|---|---|---|---|
+| 622024022 | Salomo Putra Glorious Hokoyoku | Project Manager, Mobile Lead, Backend | Authentication, Virtual Card |
+| 622024019 | Cecilia Adelaide Penlaana | Mobile Developer | Transfer, History & Dashboard |
+| 622024006 | Gracia Riyanto | Mobile Developer | Payment (QRIS), Profile & Notification |
+| 622024010 | Grace | Mobile Developer | Account, Top-up |
 
-Aplikasi Web dikerjakan oleh tim Web Kelompok Jaran Goyang. Rincian anggota dan pembagian kerja ada di dokumen 1 (Project Document).
+## Tim Web
+
+| NIM | Anggota |
+|---|---|
+| 622024003 | Steven Wibisana |
+| 622024005 | Rafi Fadhillah |
+| 622024008 | Nabila P. A. |
+| 622024016 | Permata Surya C. |
+
+Rincian pembagian kerja ada di dokumen 1 (Project Document).
